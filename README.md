@@ -45,19 +45,8 @@ TERRITORY, CONTACTLASTNAME, CONTACTFIRSTNAME, DEALSIZE
 
 | File/Folder | Description |
 |-------------|-------------|
-| "Sales_Analysis.pbix" | Power BI Dashboard file |
 | `"C:\Users\Dell\Desktop\bhavani\sales_data_sample.csv"` | Sample data file |
 | `"C:\Users\Dell\Pictures\Screenshots\Screenshot 2025-07-29 203121.png"` | Dashboard image |
-
-## 📌 Getting Started
-
-1. Download the `.pbix` file.
-2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Ensure data source paths are correctly mapped if using local files.
-4. Interact with the dashboard using filters for country, year, and month.
-
----
-
 ## 🧑‍💻 Author
 
 **Bhavani**  
